@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'celery',
     'temp',
-    'users'
+    'users',
+    'orders'
 ]
 
 MIDDLEWARE = [
