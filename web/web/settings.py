@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'celery',
     'temp',
     'users',
-    'orders'
+    'orders.apps.OrdersConfig'
 ]
 
 MIDDLEWARE = [
